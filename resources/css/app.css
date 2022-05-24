@@ -1,0 +1,13 @@
+:root {
+  --main-color: #41466F;
+  --sub-color: #E3E3E3;
+  --ex-color: #C7243A;
+
+  --base-color: #41466F;
+  --able-color: #383C5F;
+  --desable-color: #ddd;
+  
+  --font-color: #000000;
+  --font-size: 1rem;
+  --font-weight: 400;
+}

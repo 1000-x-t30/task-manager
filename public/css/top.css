@@ -1,0 +1,21 @@
+body {
+  background-color: #383C5F;
+}
+
+body::before {
+  content: "就職作品プレゼンテーション | 課題管理";
+  position: absolute;
+  top: calc(50% + 25px);
+  left: calc(50% + 150px);
+  transform: translateX(-50%) translateY(-50%);
+  display: block;
+  background-color: #2E324F;
+  color: #E3E3E3;
+  font-size: 1.5rem;
+  letter-spacing: .3rem;
+  padding: 15% 0;
+  border-radius: 5px;
+  width: 50%;
+  /* height: 50%; */
+  text-align: center;
+}
